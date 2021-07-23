@@ -1,0 +1,27 @@
+Twain Toussaint
+Web Development
+Module 1
+What is Code Reflection
+
+1. In your own words, what is a computer really doing whenever you type a letter on a keyboard? (150 words max)
+a. When the keys are pressed, they generate a code / electric signal which is given to the CPU. The signal gets translated into a code for the keys that were pressed. Then it is programmed for display, which finally the monitor shows the letters typed.
+2. In your own words, how do computers use input and output to create experiences? (250 words max)
+a. A computer uses input to process information and uses output to display that processed info.
+3. Explain why software products are essentially “infinitely reproducible nothings.” (150 words max)
+a. From my understanding, software products are “infinitely reproductible nothings” because software are mainly binary codes. Just a bunch of 1’s and 0’s. Nothing about software is physical.
+4. Explain in your own words how code becomes software. (150 words max)
+a. Code becomes software by being parsed and then compiled into an object.
+5. Explain “algorithms” in your own words. (150 words max)
+a. Algorithms are formulas or procedures that are used to solve problems, or in our case create codes.
+6. Explain the DRY principle. (100 words max)
+a. The DRY method is to help reduce repetition of code; therefore, you can use reusable code.
+7. In your own words, what is object-oriented programming? (100 words max)
+a. Object-oriented programming is a way for objects to interact with each other.
+8. In your own words explain data and how it relates to code. (100 Words max)
+a. Data is information that are entered into an application. Data relates to code because code gives instructions on what to do with the data.
+9. What is a framework? (150 words max)
+a. Framework is a platform used for developing applications.
+10. What is debugging? (150 words max)
+a. Debugging is a process used for removing and detecting potential errors in codes.
+11. Now, with more of an understanding of what code is, why do you want to learn how to code? (500 words max)
+o Coding can be a lot of work, but the finish line is always satisfying. I get a lot of joy understanding how things are created and even more joy creating things. I have an artistic background, so when I created an art piece, I get super happy looking at the finishing touches. 

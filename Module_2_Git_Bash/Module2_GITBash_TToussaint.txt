@@ -1,0 +1,11 @@
+Twain Toussaint
+Module 2 GIT
+
+
+
+* What is Git and how is it different than Github?
+• Git is a control system while GitHub is a cloud-based service that allows you to manage git repositories.
+* Why use the terminal?
+• It allows you to use text commands to navigate a directory or copy/create files. 
+* Explain 3 benefits of version control in your own words?
+• From experience, three benefits of version control are merging changes, seeing the differences, and comparing each file.
